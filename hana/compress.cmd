@@ -1,0 +1,2 @@
+SET PATH=c:\Soft\7-Zip\;%PATH%
+7z a -tzip archives\analytics-basics-with-sap-hana-and-python.zip analytics-basics-with-sap-hana-and-python.html analytics-basics-with-sap-hana-and-python.ipynb requirements.txt -r data
