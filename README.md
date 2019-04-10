@@ -26,6 +26,7 @@ If you decided to perform your data analytics project using Python it is **stron
 
 * **Working with Jupyter Notebook**
     - [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+    - [Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
 * **An introduction to data science using Python and Pandas with Jupyter notebooks**
     - [Overview](https://github.com/cuttlefishh/python-for-data-analysis)
     - [Printing, Strings, Numbers](https://github.com/cuttlefishh/python-for-data-analysis/blob/master/lessons/lesson05.ipynb)
