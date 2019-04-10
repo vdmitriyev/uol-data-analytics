@@ -10,6 +10,8 @@ This repository contains divers scripts and references for the data analytics co
     - An optional IDE that can be used to write Python code
 * [Sublime Text](https://www.sublimetext.com/)
     - An optional simple text editor
+* [github](https://github.com/) or [gitlab at UOL](https://gitlab.uni-oldenburg.de/)
+    - An optional repository hostings for your source code (and maybe data)
 
 ## Helper Projects
 
