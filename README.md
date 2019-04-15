@@ -73,6 +73,8 @@ If you decided to perform your data analytics project using Python it is **stron
     - [Setting up a HANA Express Python Machine Learning API Demo VM](https://blogs.sap.com/2018/11/03/setting-up-a-hana-express-python-machine-learning-api-demo-vm/)
     - This in only one post from the series of posts, for deeper dive, please review the rest:
         + [Machine Learning in a Box (part 10) : JupyterLab](https://blogs.sap.com/2018/10/01/machine-learning-in-a-box-part-10-jupyterlab/)
+* SAP HANA and Machine Learning
+    - [Hands-on Video Tutorials for SAP Leonardo Machine Learning Foundation](https://blogs.sap.com/2018/11/26/hands-on-video-tutorials-for-sap-leonardo-machine-learning-foundation/)
 * Visualization Tools
     - [Use SAP HANA in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-sap-hana)
     - [SAP HANA and SAP Design Studio 1.0 – The 6min Dashboard Data Geek Experiment](https://www.agiledss.com/en/blog/sap-hana-and-sap-design-studio-10-6min-dashboard-data-geek-experiment)
