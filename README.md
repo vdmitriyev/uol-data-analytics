@@ -1,6 +1,6 @@
 ### About
 
-This repository contains divers scripts and references for the data analytics course that is hold at the UOL.
+This [git repository](https://github.com/vdmitriyev/uol-data-analytics) contains divers scripts and references for the data analytics course that is hold at the UOL.
 
 ### Tools
 
@@ -15,9 +15,9 @@ This repository contains divers scripts and references for the data analytics co
 
 ## Helper Projects
 
-* [python-hana](python-hana)
+* [python-hana](https://github.com/vdmitriyev/uol-data-analytics/tree/master/python-hana)
     - A simple python utility that is able to establish a connection to a SAP HANA database from Python and uses pandas package.
-* [python-pdf-tables](python-pdf-tables)
+* [python-pdf-tables](https://github.com/vdmitriyev/uol-data-analytics/tree/master/python-pdf-tables)
     - A simple python utility that downloads data from a particular web portal in form of PDFs and then extracts data from tables.
 
 ## Online Courses
