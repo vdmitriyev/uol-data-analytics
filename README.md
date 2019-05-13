@@ -56,6 +56,7 @@ If you decided to perform your data analytics project using Python it is **stron
 * [What Is a Data Frame? (In Python, R, and SQL)](https://www.oilshell.org/blog/2018/11/30.html)
 * [The Simple Yet Practical Data Cleaning Codes for pandas](https://towardsdatascience.com/the-simple-yet-practical-data-cleaning-codes-ad27c4ce0a38)
 * [Pandas MultiIndex Tutorial](https://github.com/ZaxR/pandas_multiindex_tutorial/blob/master/Pandas%20MultiIndex%20Tutorial.ipynb)
+* [3 Awesome Visualization Techniques for every dataset](https://mlwhiz.com/blog/2019/04/19/awesome_seaborn_visuals/)
 
 ## Materials for self-paced study (**SQL**)
 
