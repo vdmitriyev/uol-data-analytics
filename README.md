@@ -60,16 +60,17 @@ If you decided to perform your data analytics project using Python it is **stron
 * [3 Awesome Visualization Techniques for every dataset](https://mlwhiz.com/blog/2019/04/19/awesome_seaborn_visuals/)
 * [Stylin’ with Pandas](https://pbpython.com/styling-pandas.html)
 
+## Materials for self-paced study (**machine learning**)
+
+* [Python Machine Learning Tutorial: Predicting Airbnb Prices](https://www.dataquest.io/blog/machine-learning-tutorial/)
+* [CNNs, Part 1: An Introduction to Convolutional Neural Networks](https://victorzhou.com/blog/intro-to-cnns-part-1/)
+
 ## Materials for self-paced study (**SQL**)
 
 * Data Wranglish with SQL (in some cases you will need to adapt provided solutions for **your database**)
     - [Using SQL String Functions to Clean Data](https://community.modeanalytics.com/sql/tutorial/sql-string-functions-for-cleaning/)
     - [Writing Subqueries in SQL](https://community.modeanalytics.com/sql/tutorial/sql-subqueries/)
     - [SQL string functions for Data Munging (Wrangling)](https://www.sqlshack.com/sql-string-functions-for-data-munging-wrangling/)
-
-## Materials for self-paced study (**machine learning**)
-    - [Python Machine Learning Tutorial: Predicting Airbnb Prices](https://www.dataquest.io/blog/machine-learning-tutorial/)
-    - [CNNs, Part 1: An Introduction to Convolutional Neural Networks](https://victorzhou.com/blog/intro-to-cnns-part-1/)
 
 ## Materials and useful references (**SAP HANA**)
 
