@@ -34,6 +34,7 @@ If you decided to perform your data analytics project using Python it is **stron
     - [Pandas Part I](https://github.com/cuttlefishh/python-for-data-analysis/blob/master/lessons/lesson11.ipynb)
     - [Pandas Part II](https://github.com/cuttlefishh/python-for-data-analysis/blob/master/lessons/lesson12.ipynb)
     - [Pandas Time Series](https://github.com/cuttlefishh/python-for-data-analysis/blob/master/lessons/lesson15.ipynb)
+    - [My top 25 pandas tricks (video)](https://www.dataschool.io/python-pandas-tricks/)
     - **NOTE**: Rest of the tutorials also can be reviewed as well.
 * **Micro-Courses by Kaggle (Faster Data Science Education)**
     - [Courses overview](https://www.kaggle.com/learn/overview)
@@ -57,6 +58,7 @@ If you decided to perform your data analytics project using Python it is **stron
 * [The Simple Yet Practical Data Cleaning Codes for pandas](https://towardsdatascience.com/the-simple-yet-practical-data-cleaning-codes-ad27c4ce0a38)
 * [Pandas MultiIndex Tutorial](https://github.com/ZaxR/pandas_multiindex_tutorial/blob/master/Pandas%20MultiIndex%20Tutorial.ipynb)
 * [3 Awesome Visualization Techniques for every dataset](https://mlwhiz.com/blog/2019/04/19/awesome_seaborn_visuals/)
+* [Stylin’ with Pandas](https://pbpython.com/styling-pandas.html)
 
 ## Materials for self-paced study (**SQL**)
 
@@ -65,6 +67,9 @@ If you decided to perform your data analytics project using Python it is **stron
     - [Writing Subqueries in SQL](https://community.modeanalytics.com/sql/tutorial/sql-subqueries/)
     - [SQL string functions for Data Munging (Wrangling)](https://www.sqlshack.com/sql-string-functions-for-data-munging-wrangling/)
 
+## Materials for self-paced study (**machine learning**)
+    - [Python Machine Learning Tutorial: Predicting Airbnb Prices](https://www.dataquest.io/blog/machine-learning-tutorial/)
+    - [CNNs, Part 1: An Introduction to Convolutional Neural Networks](https://victorzhou.com/blog/intro-to-cnns-part-1/)
 
 ## Materials and useful references (**SAP HANA**)
 
