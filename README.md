@@ -66,7 +66,8 @@ If you decided to perform your data analytics project using Python it is **stron
 * [CNNs, Part 1: An Introduction to Convolutional Neural Networks](https://victorzhou.com/blog/intro-to-cnns-part-1/)
 
 ## Materials for self-paced study (**SQL**)
-
+* Warm up SQL
+    - [All about SQL JOINs using (almost real) examples](http://www.helenanderson.co.nz/sql-joins/)
 * Data Wranglish with SQL (in some cases you will need to adapt provided solutions for **your database**)
     - [Using SQL String Functions to Clean Data](https://community.modeanalytics.com/sql/tutorial/sql-string-functions-for-cleaning/)
     - [Writing Subqueries in SQL](https://community.modeanalytics.com/sql/tutorial/sql-subqueries/)
