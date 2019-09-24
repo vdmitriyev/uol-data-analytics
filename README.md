@@ -67,6 +67,7 @@ If you decided to perform your data analytics project using Python it is **stron
 
 ## Materials for self-paced study (**SQL**)
 * Warm up SQL
+    - [SQL concepts: from A to Z](http://www.helenanderson.co.nz/sql-concepts-from-a-to-z/)
     - [All about SQL JOINs using (almost real) examples](http://www.helenanderson.co.nz/sql-joins/)
 * Data Wranglish with SQL (in some cases you will need to adapt provided solutions for **your database**)
     - [Using SQL String Functions to Clean Data](https://community.modeanalytics.com/sql/tutorial/sql-string-functions-for-cleaning/)
