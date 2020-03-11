@@ -66,6 +66,7 @@ If you decided to perform your data analytics project using Python it is **stron
 * [CNNs, Part 1: An Introduction to Convolutional Neural Networks](https://victorzhou.com/blog/intro-to-cnns-part-1/)
 
 ## Materials for self-paced study (**SQL**)
+
 * Warm up SQL
     - [SQL concepts: from A to Z](http://www.helenanderson.co.nz/sql-concepts-from-a-to-z/)
     - [All about SQL JOINs using (almost real) examples](http://www.helenanderson.co.nz/sql-joins/)
@@ -73,6 +74,8 @@ If you decided to perform your data analytics project using Python it is **stron
     - [Using SQL String Functions to Clean Data](https://community.modeanalytics.com/sql/tutorial/sql-string-functions-for-cleaning/)
     - [Writing Subqueries in SQL](https://community.modeanalytics.com/sql/tutorial/sql-subqueries/)
     - [SQL string functions for Data Munging (Wrangling)](https://www.sqlshack.com/sql-string-functions-for-data-munging-wrangling/)
+* SQL Basics
+    - [5 Ways to Better Understand SQL by Adding Optional Parentheses](https://blog.jooq.org/2020/03/03/better-understand-sql-by-adding-optional-parentheses/)
 
 ## Materials and useful references (**SAP HANA**)
 
