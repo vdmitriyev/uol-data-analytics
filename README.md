@@ -8,6 +8,8 @@ This [git repository](https://github.com/vdmitriyev/uol-data-analytics) contains
     - Python 3 + other package dependencies (e.g. Jupyter Notebook etc.)
 * [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/)
     - An optional IDE that can be used to write Python code
+* [Visual Studio Code](https://code.visualstudio.com/)
+    - An optional IDE / text editor that can be used to write code almost in any programming language
 * [Sublime Text](https://www.sublimetext.com/)
     - An optional simple text editor
 * [github](https://github.com/) or [gitlab at UOL](https://gitlab.uni-oldenburg.de/)
