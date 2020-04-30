@@ -13,7 +13,7 @@ This [git repository](https://github.com/vdmitriyev/uol-data-analytics) contains
 * [Sublime Text](https://www.sublimetext.com/)
     - An optional simple text editor
 * [github](https://github.com/) or [gitlab at UOL](https://gitlab.uni-oldenburg.de/)
-    - An optional repository hostings for your source code (and maybe data)
+    - An optional repository hosting for your source code (and maybe data)
 
 ## Helper Projects
 
@@ -72,7 +72,7 @@ If you decided to perform your data analytics project using Python it is **stron
 * Warm up SQL
     - [SQL concepts: from A to Z](http://www.helenanderson.co.nz/sql-concepts-from-a-to-z/)
     - [All about SQL JOINs using (almost real) examples](http://www.helenanderson.co.nz/sql-joins/)
-* Data Wranglish with SQL (in some cases you will need to adapt provided solutions for **your database**)
+* Data Wrangling with SQL (in some cases you will need to adapt provided solutions for **your database**)
     - [Using SQL String Functions to Clean Data](https://community.modeanalytics.com/sql/tutorial/sql-string-functions-for-cleaning/)
     - [Writing Subqueries in SQL](https://community.modeanalytics.com/sql/tutorial/sql-subqueries/)
     - [SQL string functions for Data Munging (Wrangling)](https://www.sqlshack.com/sql-string-functions-for-data-munging-wrangling/)
@@ -93,3 +93,13 @@ If you decided to perform your data analytics project using Python it is **stron
     - [Use SAP HANA in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-sap-hana)
     - [SAP HANA and SAP Design Studio 1.0 – The 6min Dashboard Data Geek Experiment](https://www.agiledss.com/en/blog/sap-hana-and-sap-design-studio-10-6min-dashboard-data-geek-experiment)
 
+### Online Courses + Materials for Data Scientist
+
+*NOTE*: There are always a lot of online courses available out there and this list is just a limited view on them. The list is more a mixture of new materials with classical ones (update: **30.04.2020**)
+ 
+* Crashkurs für maschinelles Lernen (Microsoft, in German) - https://docs.microsoft.com/de-de/learn/paths/ml-crash-course/
+* Intro to TensorFlow for Deep Learning (Udacity) - https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
+* TensorFlow + Tutorials - https://www.tensorflow.org/tutorials
+* Machine Learning (by Andrew Ng) - https://www.coursera.org/learn/machine-learning
+* Statistical Learning - https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
+* Data Science (not all courses are free) - https://www.coursera.org/browse/data-science
