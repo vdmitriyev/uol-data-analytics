@@ -1,0 +1,7 @@
+settings.py
+.ipynb_checkpoints/*
+__pycache__
+htmls/*.html
+*.html
+data/*
+archives/*
