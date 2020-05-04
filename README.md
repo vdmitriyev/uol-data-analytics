@@ -17,6 +17,9 @@ This [git repository](https://github.com/vdmitriyev/uol-data-analytics) contains
 
 ## Helper Projects
 
+* [python-csv-airbnb](https://github.com/vdmitriyev/uol-data-analytics/tree/master/python-csv-airbnb)
+    - A simple data analysis of AirBnB datasets (Berlin location) that uses Python and Jupyter Notebook.
+    - This example also demonstrates how to import data into database and fetch data using Python from database.
 * [python-pdf-tables](https://github.com/vdmitriyev/uol-data-analytics/tree/master/python-pdf-tables)
     - A simple python utility that downloads data from a particular web portal in form of PDFs and then extracts data from tables.
 * (optional) [python-hana](https://github.com/vdmitriyev/uol-data-analytics/tree/master/python-hana)
@@ -96,7 +99,7 @@ If you decided to perform your data analytics project using Python it is **stron
 ### Online Courses + Materials for Data Scientist
 
 *NOTE*: There are always a lot of online courses available out there and this list is just a limited view on them. The list is more a mixture of new materials with classical ones (update: **30.04.2020**)
- 
+
 * Crashkurs für maschinelles Lernen (Microsoft, in German) - https://docs.microsoft.com/de-de/learn/paths/ml-crash-course/
 * Intro to TensorFlow for Deep Learning (Udacity) - https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
 * TensorFlow + Tutorials - https://www.tensorflow.org/tutorials
