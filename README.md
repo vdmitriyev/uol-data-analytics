@@ -2,7 +2,7 @@
 
 This [git repository](https://github.com/vdmitriyev/uol-data-analytics) contains divers scripts and references for the data analytics course that is hold at the UOL.
 
-### Tools
+### :gear: Tools
 
 * [Anaconda](https://www.anaconda.com/distribution/)
     - Python 3 + other package dependencies (e.g. Jupyter Notebook etc.)
@@ -15,7 +15,7 @@ This [git repository](https://github.com/vdmitriyev/uol-data-analytics) contains
 * [github](https://github.com/) or [gitlab at UOL](https://gitlab.uni-oldenburg.de/)
     - An optional repository hosting for your source code (and maybe data)
 
-## Helper Projects
+## :speech_balloon: Helper Projects
 
 * [python-csv-airbnb](https://github.com/vdmitriyev/uol-data-analytics/tree/master/python-csv-airbnb)
     - A simple data analysis of AirBnB datasets (Berlin location) that uses Python and Jupyter Notebook.
@@ -25,14 +25,14 @@ This [git repository](https://github.com/vdmitriyev/uol-data-analytics) contains
 * (optional) [python-hana](https://github.com/vdmitriyev/uol-data-analytics/tree/master/python-hana)
     - A simple python utility that is able to establish a connection to a SAP HANA database from Python and uses pandas package.
 
-## Online Courses
+## :mortar_board: Online Materials
 
 If you decided to perform your data analytics project using Python it is **strongly recommended** that you will get through the courses listed below.
 
-* **Working with Jupyter Notebook**
+* :beginner: **Working with Jupyter Notebook**
     - [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
     - [Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
-* **An introduction to data science using Python and Pandas with Jupyter notebooks**
+* :beginner: **An introduction to data science using Python and Pandas with Jupyter notebooks**
     - [Overview](https://github.com/cuttlefishh/python-for-data-analysis)
     - [Printing, Strings, Numbers](https://github.com/cuttlefishh/python-for-data-analysis/blob/master/lessons/lesson05.ipynb)
     - [Logic, Loops, Lists, Tuples, and Dictionaries](https://github.com/cuttlefishh/python-for-data-analysis/blob/master/lessons/lesson07.ipynb)
@@ -41,18 +41,22 @@ If you decided to perform your data analytics project using Python it is **stron
     - [Pandas Time Series](https://github.com/cuttlefishh/python-for-data-analysis/blob/master/lessons/lesson15.ipynb)
     - [My top 25 pandas tricks (video)](https://www.dataschool.io/python-pandas-tricks/)
     - **NOTE**: Rest of the tutorials also can be reviewed as well.
-* **Micro-Courses by Kaggle (Faster Data Science Education)**
+* :beginner: **Micro-Courses by Kaggle (Faster Data Science Education)**
     - [Courses overview](https://www.kaggle.com/learn/overview)
     - [Python](https://www.kaggle.com/learn/python)
     - [Pandas](https://www.kaggle.com/learn/pandas)
     - [Data Visualization](https://www.kaggle.com/learn/data-visualization)
     - [Data Visualization: from Non-Coder to Coder](https://www.kaggle.com/learn/data-visualization-from-non-coder-to-coder)
+* :beginner: Python + Jupyter Notebook Tutorials by [BigDataAnalyticsGroup](https://github.com/BigDataAnalyticsGroup) (last update: **04.2020**)
+    - Git repository with [Python Tutorials](https://github.com/BigDataAnalyticsGroup/python)
+    - :clapper: Videos (in **German**) are also available on youtube [here](https://www.youtube.com/watch?v=1S4Cgtkxqhs&list=PLC4UZxBVGKte4XagApdryLsnIXpjZWSAn)
 
-## Possible Datasets
+
+## :checkered_flag: Possible Datasets
 
 * [datasets-links-collection](https://github.com/vdmitriyev/datasets-links-collection)
 
-## Materials for self-paced study (**Python**)
+## :snake: Materials for self-paced study (**Python**)
 
 * [Reproducible Data Analysis in Jupyter](https://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
 * [Jupyter Notebook on Full Stack Python](https://www.fullstackpython.com/jupyter-notebook.html)
@@ -65,12 +69,12 @@ If you decided to perform your data analytics project using Python it is **stron
 * [3 Awesome Visualization Techniques for every dataset](https://mlwhiz.com/blog/2019/04/19/awesome_seaborn_visuals/)
 * [Stylin’ with Pandas](https://pbpython.com/styling-pandas.html)
 
-## Materials for self-paced study (**machine learning**)
+## :bar_chart: Materials for self-paced study (**machine learning**)
 
 * [Python Machine Learning Tutorial: Predicting Airbnb Prices](https://www.dataquest.io/blog/machine-learning-tutorial/)
 * [CNNs, Part 1: An Introduction to Convolutional Neural Networks](https://victorzhou.com/blog/intro-to-cnns-part-1/)
 
-## Materials for self-paced study (**SQL**)
+## :chart_with_upwards_trend: Materials for self-paced study (**SQL**)
 
 * Warm up SQL
     - [SQL concepts: from A to Z](http://www.helenanderson.co.nz/sql-concepts-from-a-to-z/)
@@ -82,7 +86,7 @@ If you decided to perform your data analytics project using Python it is **stron
 * SQL Basics
     - [5 Ways to Better Understand SQL by Adding Optional Parentheses](https://blog.jooq.org/2020/03/03/better-understand-sql-by-adding-optional-parentheses/)
 
-## Materials and useful references (**SAP HANA**)
+## :chart_with_downwards_trend: Materials and useful references (**SAP HANA**)
 
 * Python, SAP HANA and Analytics
     - [Python Client API for machine learning in SAP HANA 2.0 (Express Edition SPS 03, Rev. 33](https://blogs.sap.com/2018/10/29/python-client-api-for-machine-learning-in-sap-hana-2.0-express-edition-sps-03-revision-33/)
@@ -96,9 +100,9 @@ If you decided to perform your data analytics project using Python it is **stron
     - [Use SAP HANA in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-sap-hana)
     - [SAP HANA and SAP Design Studio 1.0 – The 6min Dashboard Data Geek Experiment](https://www.agiledss.com/en/blog/sap-hana-and-sap-design-studio-10-6min-dashboard-data-geek-experiment)
 
-### Online Courses + Materials for Data Scientist
+### :computer: Online Courses + Materials for Data Scientist
 
-*NOTE*: There are always a lot of online courses available out there and this list is just a limited view on them. The list is more a mixture of new materials with classical ones (update: **30.04.2020**)
+*NOTE*: There are always a lot of online courses available out there and this list is just a limited overview. This list is more a mixture of new materials with classical ones (update/review: **30.04.2020**)
 
 * Crashkurs für maschinelles Lernen (Microsoft, in German) - https://docs.microsoft.com/de-de/learn/paths/ml-crash-course/
 * Intro to TensorFlow for Deep Learning (Udacity) - https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
