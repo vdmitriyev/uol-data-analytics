@@ -25,10 +25,12 @@ This [git repository](https://github.com/vdmitriyev/uol-data-analytics) contains
 * (optional) [python-hana](https://github.com/vdmitriyev/uol-data-analytics/tree/master/python-hana)
     - A simple python utility that is able to establish a connection to a SAP HANA database from Python and uses pandas package.
 
-## :mortar_board: Online Materials
+## :mortar_board: Online Materials (Start)
 
 If you decided to perform your data analytics project using Python it is **strongly recommended** that you will get through the courses listed below.
 
+* :beginner: **Exploratory data analysis (generic)**
+    - [How to Prepare your Data](https://towardsdatascience.com/the-basics-of-data-prep-7bb5f3af77ac)
 * :beginner: **Working with Jupyter Notebook**
     - [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
     - [Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
@@ -40,19 +42,22 @@ If you decided to perform your data analytics project using Python it is **stron
     - [Pandas Part II](https://github.com/cuttlefishh/python-for-data-analysis/blob/master/lessons/lesson12.ipynb)
     - [Pandas Time Series](https://github.com/cuttlefishh/python-for-data-analysis/blob/master/lessons/lesson15.ipynb)
     - [My top 25 pandas tricks (video)](https://www.dataschool.io/python-pandas-tricks/)
-    - **NOTE**: Rest of the tutorials also can be reviewed as well.
-* :beginner: **Micro-Courses by Kaggle (Faster Data Science Education)**
+    - *NOTE: Rest of this tutorials also can be reviewed as well.*
+    
+## :mortar_board: Online Materials (HowTos)
+
+* :rocket: **Micro-Courses by Kaggle (Faster Data Science Education)**
     - [Courses overview](https://www.kaggle.com/learn/overview)
     - [Python](https://www.kaggle.com/learn/python)
     - [Pandas](https://www.kaggle.com/learn/pandas)
     - [Data Visualization](https://www.kaggle.com/learn/data-visualization)
     - [Data Visualization: from Non-Coder to Coder](https://www.kaggle.com/learn/data-visualization-from-non-coder-to-coder)
-* :beginner: Python + Jupyter Notebook Tutorials by [BigDataAnalyticsGroup](https://github.com/BigDataAnalyticsGroup) (last update: **04.2020**)
+* :rocket: Python + Jupyter Notebook Tutorials by [BigDataAnalyticsGroup](https://github.com/BigDataAnalyticsGroup) (last update: **04.2020**)
     - Git repository with [Python Tutorials](https://github.com/BigDataAnalyticsGroup/python)
     - :clapper: Videos (in **German**) are also available on youtube [here](https://www.youtube.com/watch?v=1S4Cgtkxqhs&list=PLC4UZxBVGKte4XagApdryLsnIXpjZWSAn)
 
 
-## :checkered_flag: Possible Datasets
+## :checkered_flag: Links to Datasets
 
 * [datasets-links-collection](https://github.com/vdmitriyev/datasets-links-collection)
 
