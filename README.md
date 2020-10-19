@@ -111,11 +111,13 @@ If you decided to perform your data analytics project using Python it is **stron
 
 ### :computer: Online Courses + Materials for Data Scientist
 
-*NOTE*: There are always a lot of online courses available out there and this list is just a limited overview. This list is more a mixture of new materials with classical ones (update/review: **30.04.2020**)
+*NOTE*: There are always a lot of online courses available out there and this list is just a limited overview. This list is more a mixture of new materials with classical ones (update/review: **19.10.2020**)
 
 * Crashkurs für maschinelles Lernen (Microsoft, in German) - https://docs.microsoft.com/de-de/learn/paths/ml-crash-course/
 * Intro to TensorFlow for Deep Learning (Udacity) - https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
 * TensorFlow + Tutorials - https://www.tensorflow.org/tutorials
 * Machine Learning (by Andrew Ng) - https://www.coursera.org/learn/machine-learning
-* Statistical Learning - https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
+* Statistical Learning - https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning
 * Data Science (not all courses are free) - https://www.coursera.org/browse/data-science
+* Stat 451: Intro to Machine Learning (Fall 2020) (Sebastian Raschka) - https://www.youtube.com/watch?v=OgK8JFjkSto&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&index=1
+* MIT 6.S191 Introduction to Deep Learning (Spring 2020) (Youtube) - http://introtodeeplearning.com/
