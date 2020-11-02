@@ -43,7 +43,7 @@ If you decided to perform your data analytics project using Python it is **stron
     - [Pandas Time Series](https://github.com/cuttlefishh/python-for-data-analysis/blob/master/lessons/lesson15.ipynb)
     - [My top 25 pandas tricks (video)](https://www.dataschool.io/python-pandas-tricks/)
     - *NOTE: Rest of this tutorials also can be reviewed as well.*
-    
+
 ## :mortar_board: Online Materials (HowTos)
 
 * :rocket: **Micro-Courses by Kaggle (Faster Data Science Education)**
