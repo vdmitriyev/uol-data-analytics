@@ -25,10 +25,12 @@ This [git repository](https://github.com/vdmitriyev/uol-data-analytics) contains
 * (optional) [python-hana](https://github.com/vdmitriyev/uol-data-analytics/tree/master/python-hana)
     - A simple python utility that is able to establish a connection to a SAP HANA database from Python and uses pandas package.
 
-## :mortar_board: Online Materials
+## :mortar_board: Online Materials (Start)
 
 If you decided to perform your data analytics project using Python it is **strongly recommended** that you will get through the courses listed below.
 
+* :beginner: **Exploratory data analysis (generic)**
+    - [How to Prepare your Data](https://towardsdatascience.com/the-basics-of-data-prep-7bb5f3af77ac)
 * :beginner: **Working with Jupyter Notebook**
     - [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
     - [Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
@@ -40,19 +42,22 @@ If you decided to perform your data analytics project using Python it is **stron
     - [Pandas Part II](https://github.com/cuttlefishh/python-for-data-analysis/blob/master/lessons/lesson12.ipynb)
     - [Pandas Time Series](https://github.com/cuttlefishh/python-for-data-analysis/blob/master/lessons/lesson15.ipynb)
     - [My top 25 pandas tricks (video)](https://www.dataschool.io/python-pandas-tricks/)
-    - **NOTE**: Rest of the tutorials also can be reviewed as well.
-* :beginner: **Micro-Courses by Kaggle (Faster Data Science Education)**
+    - *NOTE: Rest of this tutorials also can be reviewed as well.*
+    
+## :mortar_board: Online Materials (HowTos)
+
+* :rocket: **Micro-Courses by Kaggle (Faster Data Science Education)**
     - [Courses overview](https://www.kaggle.com/learn/overview)
     - [Python](https://www.kaggle.com/learn/python)
     - [Pandas](https://www.kaggle.com/learn/pandas)
     - [Data Visualization](https://www.kaggle.com/learn/data-visualization)
     - [Data Visualization: from Non-Coder to Coder](https://www.kaggle.com/learn/data-visualization-from-non-coder-to-coder)
-* :beginner: Python + Jupyter Notebook Tutorials by [BigDataAnalyticsGroup](https://github.com/BigDataAnalyticsGroup) (last update: **04.2020**)
+* :rocket: Python + Jupyter Notebook Tutorials by [BigDataAnalyticsGroup](https://github.com/BigDataAnalyticsGroup) (last update: **04.2020**)
     - Git repository with [Python Tutorials](https://github.com/BigDataAnalyticsGroup/python)
     - :clapper: Videos (in **German**) are also available on youtube [here](https://www.youtube.com/watch?v=1S4Cgtkxqhs&list=PLC4UZxBVGKte4XagApdryLsnIXpjZWSAn)
 
 
-## :checkered_flag: Possible Datasets
+## :checkered_flag: Links to Datasets
 
 * [datasets-links-collection](https://github.com/vdmitriyev/datasets-links-collection)
 
@@ -102,11 +107,13 @@ If you decided to perform your data analytics project using Python it is **stron
 
 ### :computer: Online Courses + Materials for Data Scientist
 
-*NOTE*: There are always a lot of online courses available out there and this list is just a limited overview. This list is more a mixture of new materials with classical ones (update/review: **30.04.2020**)
+*NOTE*: There are always a lot of online courses available out there and this list is just a limited overview. This list is more a mixture of new materials with classical ones (update/review: **19.10.2020**)
 
 * Crashkurs für maschinelles Lernen (Microsoft, in German) - https://docs.microsoft.com/de-de/learn/paths/ml-crash-course/
 * Intro to TensorFlow for Deep Learning (Udacity) - https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
 * TensorFlow + Tutorials - https://www.tensorflow.org/tutorials
 * Machine Learning (by Andrew Ng) - https://www.coursera.org/learn/machine-learning
-* Statistical Learning - https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
+* Statistical Learning - https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning
 * Data Science (not all courses are free) - https://www.coursera.org/browse/data-science
+* Stat 451: Intro to Machine Learning (Fall 2020) (Sebastian Raschka) - https://www.youtube.com/watch?v=OgK8JFjkSto&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&index=1
+* MIT 6.S191 Introduction to Deep Learning (Spring 2020) (Youtube) - http://introtodeeplearning.com/
