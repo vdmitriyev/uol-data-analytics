@@ -73,6 +73,8 @@ If you decided to perform your data analytics project using Python it is **stron
 * [Pandas MultiIndex Tutorial](https://github.com/ZaxR/pandas_multiindex_tutorial/blob/master/Pandas%20MultiIndex%20Tutorial.ipynb)
 * [3 Awesome Visualization Techniques for every dataset](https://mlwhiz.com/blog/2019/04/19/awesome_seaborn_visuals/)
 * [Stylin’ with Pandas](https://pbpython.com/styling-pandas.html)
+* [Every Complex DataFrame Manipulation, Explained & Visualized Intuitively](https://medium.com/analytics-vidhya/every-dataframe-manipulation-explained-visualized-intuitively-dbeea7a5529e)
+
 
 ## :bar_chart: Materials for self-paced study (**machine learning**)
 
