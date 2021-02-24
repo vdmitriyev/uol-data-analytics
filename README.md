@@ -74,6 +74,8 @@ If you decided to perform your data analytics project using Python it is **stron
 * [3 Awesome Visualization Techniques for every dataset](https://mlwhiz.com/blog/2019/04/19/awesome_seaborn_visuals/)
 * [Stylin’ with Pandas](https://pbpython.com/styling-pandas.html)
 * [Every Complex DataFrame Manipulation, Explained & Visualized Intuitively](https://medium.com/analytics-vidhya/every-dataframe-manipulation-explained-visualized-intuitively-dbeea7a5529e)
+* [10 Useful Jupyter Notebook Extensions for a Data Scientist](https://towardsdatascience.com/10-useful-jupyter-notebook-extensions-for-a-data-scientist-bd4cb472c25e)
+    - ```Qgrid, itables, DataTables, ipyvolume, bqplot, handcalcs ```
 * *Compare SQL and pandas* [How to Write All of Your SQL Queries in Pandas](https://towardsdatascience.com/how-to-write-all-of-your-sql-queries-in-pandas-449dd8b2c94e)
 
 
