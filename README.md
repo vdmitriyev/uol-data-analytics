@@ -25,6 +25,10 @@ This [git repository](https://github.com/vdmitriyev/uol-data-analytics) contains
 * (optional) [python-hana](https://github.com/vdmitriyev/uol-data-analytics/tree/master/python-hana)
     - A simple python utility that is able to establish a connection to a SAP HANA database from Python and uses pandas package.
 
+## :checkered_flag: Datasets
+
+* [datasets-links-collection](https://github.com/vdmitriyev/datasets-links-collection)
+
 ## :mortar_board: Online Materials (Start)
 
 If you decided to perform your data analytics project using Python it is **strongly recommended** that you will get through the courses listed below.
@@ -55,11 +59,6 @@ If you decided to perform your data analytics project using Python it is **stron
 * :rocket: Python + Jupyter Notebook Tutorials by [BigDataAnalyticsGroup](https://github.com/BigDataAnalyticsGroup) (last update: **04.2020**)
     - Git repository with [Python Tutorials](https://github.com/BigDataAnalyticsGroup/python)
     - :clapper: Videos (in **German**) are also available on youtube [here](https://www.youtube.com/watch?v=1S4Cgtkxqhs&list=PLC4UZxBVGKte4XagApdryLsnIXpjZWSAn)
-
-
-## :checkered_flag: Links to Datasets
-
-* [datasets-links-collection](https://github.com/vdmitriyev/datasets-links-collection)
 
 ## :snake: Materials for self-paced study (**Python** + **pandas**)
 
