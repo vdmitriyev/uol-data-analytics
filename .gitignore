@@ -1,6 +1,7 @@
 # folders
 .ipynb_checkpoints/*
 python-csv-airbnb-live/*
+python-csv-airbnb-live-*/*
 
 # files
 uol-data-analytics.zip
