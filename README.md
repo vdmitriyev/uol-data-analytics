@@ -1,26 +1,49 @@
 ### About
 
-This [git repository](https://github.com/vdmitriyev/uol-data-analytics) contains divers scripts and references for the data analytics course that is hold at the UOL.
+This [git repository](https://github.com/vdmitriyev/uol-data-analytics) contains various scripts and references for the data analytics course held at the UOL.
 
 ### :gear: Tools
 
 * [Anaconda](https://www.anaconda.com/distribution/)
-    - Python 3 + other package dependencies (e.g. Jupyter Notebook etc.)
-* [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/)
-    - An optional IDE that can be used to write Python code
+    - Python 3 + other package dependencies (e.g. Jupyter Notebook, pandas, etc.)
 * [Visual Studio Code](https://code.visualstudio.com/)
-    - An optional IDE / text editor that can be used to write code almost in any programming language
+    - An integrated development environment (IDE) that is used to write code almost in any programming language
+    - Visual Studio Code also known as **VS Code**
+    - :zzz: **Important**: make use of many VS Code **extensions** (e.g., Python, Pylance, Python, autoDocstring, Remote Development, IntelliCode, etc.)
+* [github](https://github.com/) or [gitlab at UOL](https://gitlab.uni-oldenburg.de/)
+    - A repository hosting functionality for your source code (and maybe data)
+* [overleaf](https://www.overleaf.com/)
+    - LaTeX online editor, easy to work on a LaTeX project in a group
+
+### :computer: Configure VS Code for Data Science (Python)
+
+Use following short video tutorials to prepare your local development workplace using VS Code and extensions
+
+* :clapper: [How to Setup Visual Studio Code for Python and Data Science | Better Data Science](https://www.youtube.com/watch?v=TheC-HCgiIM)
+* :clapper: [3 Must Know VS Code Features for ML & Data Science!](https://www.youtube.com/watch?v=PMR4n9XtrEY)
+
+<details>
+
+* :clapper: (advanced) [STOP writing bad Data Science CODE with these 10 tools in VS Code](https://www.youtube.com/watch?v=qoL51QGDVZk)
+* :clapper: (advanced) [Powerful VSCode Tips And Tricks For Python Development And Design](https://www.youtube.com/watch?v=fj2tuTIcUys)
+
+</details>
+
+### :white_flag: Tools (Optional)
+
 * [Sublime Text](https://www.sublimetext.com/)
     - An optional simple text editor
-* [github](https://github.com/) or [gitlab at UOL](https://gitlab.uni-oldenburg.de/)
-    - An optional repository hosting for your source code (and maybe data)
+* [Notepad++](https://notepad-plus-plus.org/downloads/)
+    - Simple, lightweight, full-featured and simply amazing text editor
+* [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/)
+    - An optional IDE that can be used to write Python code
 
 ## :speech_balloon: Helper Projects
 
 * [python-csv-airbnb](https://github.com/vdmitriyev/uol-data-analytics/tree/master/python-csv-airbnb)
     - A simple data analysis of AirBnB datasets (Berlin location) that uses Python and Jupyter Notebook.
     - This example also demonstrates how to import data into database and fetch data using Python from database.
-* [python-pdf-tables](https://github.com/vdmitriyev/uol-data-analytics/tree/master/python-pdf-tables)
+* (optional) [python-pdf-tables](https://github.com/vdmitriyev/uol-data-analytics/tree/master/python-pdf-tables)
     - A simple python utility that downloads data from a particular web portal in form of PDFs and then extracts data from tables.
 * (optional) [python-hana](https://github.com/vdmitriyev/uol-data-analytics/tree/master/python-hana)
     - A simple python utility that is able to establish a connection to a SAP HANA database from Python and uses pandas package.
@@ -78,11 +101,6 @@ If you decided to perform your data analytics project using Python it is **stron
 * *Compare SQL and pandas* [How to Write All of Your SQL Queries in Pandas](https://towardsdatascience.com/how-to-write-all-of-your-sql-queries-in-pandas-449dd8b2c94e)
 
 
-## :bar_chart: Materials for self-paced study (**machine learning**)
-
-* [Python Machine Learning Tutorial: Predicting Airbnb Prices](https://www.dataquest.io/blog/machine-learning-tutorial/)
-* [CNNs, Part 1: An Introduction to Convolutional Neural Networks](https://victorzhou.com/blog/intro-to-cnns-part-1/)
-
 ## :chart_with_upwards_trend: Materials for self-paced study (**SQL**)
 
 * Warm up SQL
@@ -95,7 +113,18 @@ If you decided to perform your data analytics project using Python it is **stron
 * SQL Basics
     - [5 Ways to Better Understand SQL by Adding Optional Parentheses](https://blog.jooq.org/2020/03/03/better-understand-sql-by-adding-optional-parentheses/)
 
+## :bar_chart: Materials for self-paced study (**machine learning**)
+
+<details>
+
+* [Python Machine Learning Tutorial: Predicting Airbnb Prices](https://www.dataquest.io/blog/machine-learning-tutorial/)
+* [CNNs, Part 1: An Introduction to Convolutional Neural Networks](https://victorzhou.com/blog/intro-to-cnns-part-1/)
+
+</details>
+
 ## :chart_with_downwards_trend: Materials and useful references (**SAP HANA**)
+
+<details>
 
 * Python, SAP HANA and Analytics
     - [Python Client API for machine learning in SAP HANA 2.0 (Express Edition SPS 03, Rev. 33](https://blogs.sap.com/2018/10/29/python-client-api-for-machine-learning-in-sap-hana-2.0-express-edition-sps-03-revision-33/)
@@ -109,9 +138,13 @@ If you decided to perform your data analytics project using Python it is **stron
     - [Use SAP HANA in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-sap-hana)
     - [SAP HANA and SAP Design Studio 1.0 – The 6min Dashboard Data Geek Experiment](https://www.agiledss.com/en/blog/sap-hana-and-sap-design-studio-10-6min-dashboard-data-geek-experiment)
 
+</details>
+
 ### :computer: Online Courses + Materials for Data Scientist
 
 *NOTE*: There are always a lot of online courses available out there and this list is just a limited overview. This list is more a mixture of new materials with classical ones (update/review: **19.10.2020**)
+
+<details>
 
 * Crashkurs für maschinelles Lernen (Microsoft, in German) - https://docs.microsoft.com/de-de/learn/paths/ml-crash-course/
 * Intro to TensorFlow for Deep Learning (Udacity) - https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
@@ -121,3 +154,5 @@ If you decided to perform your data analytics project using Python it is **stron
 * Data Science (not all courses are free) - https://www.coursera.org/browse/data-science
 * Stat 451: Intro to Machine Learning (Fall 2020) (Sebastian Raschka) - https://www.youtube.com/watch?v=OgK8JFjkSto&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&index=1
 * MIT 6.S191 Introduction to Deep Learning (Spring 2020) (Youtube) - http://introtodeeplearning.com/
+
+</details>
