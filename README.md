@@ -24,6 +24,8 @@ Use following short video tutorials to prepare your local development workplace 
 
 <details>
 
+* :frog: :clapper: (optional) [Learn Visual Studio Code in 7min (Official Beginner Tutorial)](https://www.youtube.com/watch?v=B-s71n0dHUk)
+* :frog: :clapper: (optional) [Using Git with Visual Studio Code (Official Beginner Tutorial)](https://www.youtube.com/watch?v=i_23KUAEtUM)
 * :clapper: (advanced) [STOP writing bad Data Science CODE with these 10 tools in VS Code](https://www.youtube.com/watch?v=qoL51QGDVZk)
 * :clapper: (advanced) [Powerful VSCode Tips And Tricks For Python Development And Design](https://www.youtube.com/watch?v=fj2tuTIcUys)
 
