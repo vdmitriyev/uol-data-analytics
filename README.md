@@ -9,7 +9,7 @@ This [git repository](https://github.com/vdmitriyev/uol-data-analytics) contains
 * [Visual Studio Code](https://code.visualstudio.com/)
     - An integrated development environment (IDE) that is used to write code almost in any programming language
     - Visual Studio Code also known as **VS Code**
-    - :zzz: **Important**: make use of many VS Code **extensions** (e.g., Python, Pylance, Python, autoDocstring, Remote Development, IntelliCode, etc.)
+    - :zzz: **Important**: make use of many VS Code **extensions** (e.g., Python, Pylance, IntelliCode, autoDocstring, Remote Development, etc.)
 * [github](https://github.com/) or [gitlab at UOL](https://gitlab.uni-oldenburg.de/)
     - A repository hosting functionality for your source code (and maybe data)
 * [overleaf](https://www.overleaf.com/)
