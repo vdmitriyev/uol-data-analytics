@@ -4,8 +4,8 @@ This [git repository](https://github.com/vdmitriyev/uol-data-analytics) contains
 
 ### :gear: Tools
 
-* [Anaconda](https://www.anaconda.com/distribution/)
-    - Python 3 + other package dependencies (e.g. Jupyter Notebook, pandas, etc.)
+* [Anaconda](https://www.anaconda.com/download)
+    - Python 3 + other package dependencies (e.g., Jupyter Notebook, pandas, etc.)
 * [Visual Studio Code](https://code.visualstudio.com/)
     - An integrated development environment (IDE) that is used to write code almost in any programming language
     - Visual Studio Code also known as **VS Code**
@@ -104,7 +104,7 @@ If you decided to perform your data analytics project using Python it is **stron
     - [All about SQL JOINs using (almost real) examples](http://www.helenanderson.co.nz/sql-joins/)
 * Data Wrangling with SQL (in some cases you will need to adapt provided solutions for **your database**)
     - [Using SQL String Functions to Clean Data](https://community.modeanalytics.com/sql/tutorial/sql-string-functions-for-cleaning/)
-    - [Writing Subqueries in SQL](https://community.modeanalytics.com/sql/tutorial/sql-subqueries/)
+    - [Writing Subqueries in SQL](https://mode.com/sql-tutorial/sql-sub-queries)
     - [SQL string functions for Data Munging (Wrangling)](https://www.sqlshack.com/sql-string-functions-for-data-munging-wrangling/)
 * SQL Basics
     - [5 Ways to Better Understand SQL by Adding Optional Parentheses](https://blog.jooq.org/2020/03/03/better-understand-sql-by-adding-optional-parentheses/)
