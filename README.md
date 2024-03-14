@@ -124,7 +124,6 @@ If you decided to perform your data analytics project using Python it is **stron
 
 * Python, SAP HANA and Analytics
     - [Python Client API for machine learning in SAP HANA 2.0 (Express Edition SPS 03, Rev. 33](https://blogs.sap.com/2018/10/29/python-client-api-for-machine-learning-in-sap-hana-2.0-express-edition-sps-03-revision-33/)
-    - [Use JupyterLab with SAP HANA (Express Edition)](https://developers.sap.com/tutorials/mlb-hxe-tools-jupyter.html)
     - [Setting up a HANA Express Python Machine Learning API Demo VM](https://blogs.sap.com/2018/11/03/setting-up-a-hana-express-python-machine-learning-api-demo-vm/)
     - This in only one post from the series of posts, for deeper dive, please review the rest:
         + [Machine Learning in a Box (part 10) : JupyterLab](https://blogs.sap.com/2018/10/01/machine-learning-in-a-box-part-10-jupyterlab/)
