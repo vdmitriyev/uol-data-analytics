@@ -52,7 +52,8 @@ Use following short video tutorials to prepare your local development workplace 
 
 If you decided to perform your data analytics project using Python it is **strongly recommended** that you will get through the courses listed below.
 
-* :beginner: **Exploratory data analysis (generic)**
+* :beginner: **Exploratory Data Analysis**
+    - [A Course in Exploratory Data Analysis](https://bayesball.github.io/EDA/)
     - [How to Prepare your Data](https://towardsdatascience.com/the-basics-of-data-prep-7bb5f3af77ac)
 * :beginner: **Working with Jupyter Notebook**
     - [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
