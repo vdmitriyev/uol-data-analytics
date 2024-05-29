@@ -13,7 +13,7 @@ This [git repository](https://github.com/vdmitriyev/uol-data-analytics) contains
 * [github](https://github.com/) or [gitlab at UOL](https://gitlab.uni-oldenburg.de/)
     - A repository hosting functionality for your source code (and maybe data)
 * [overleaf](https://www.overleaf.com/)
-    - LaTeX online editor, easy to work on a LaTeX project in a group
+    - LaTeX online editor, preferable way to work on a LaTeX project in a group
 
 ### :computer: Configure VS Code for Data Science (Python)
 
