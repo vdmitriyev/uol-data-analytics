@@ -1,0 +1,24 @@
+name: link-checker
+
+on:
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 15 8-14 * 5' # 2nd Friday of the month at 15:17
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write # Required for peter-evans/create-issue-from-file
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+      - name: Lychee link checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v2.6.1
+        with:
+          args: --no-progress --max-concurrency 4 README.md
+          fail: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
