@@ -54,7 +54,7 @@ If you decided to perform your data analytics project using Python it is **stron
 
 * :beginner: **Exploratory Data Analysis**
     - [A Course in Exploratory Data Analysis](https://bayesball.github.io/EDA/)
-    - [How to Prepare your Data](https://towardsdatascience.com/the-basics-of-data-prep-7bb5f3af77ac)
+    - [THE ESSENTIALS OF DATA PREPARATION](https://www.data-action-lab.com/wp-content/uploads/2020/09/DSRS_DP.pdf)
 * :beginner: **Working with Jupyter Notebook**
     - [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
     - [Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
@@ -75,7 +75,7 @@ If you decided to perform your data analytics project using Python it is **stron
     - [Python](https://www.kaggle.com/learn/python)
     - [Pandas](https://www.kaggle.com/learn/pandas)
     - [Data Visualization](https://www.kaggle.com/learn/data-visualization)
-    - [Data Visualization: from Non-Coder to Coder](https://www.kaggle.com/learn/data-visualization-from-non-coder-to-coder)
+    - [Data Visualization: from Non-Coder to Coder](https://www.kaggle.com/code/mamtadhaker/hello-seaborn)
 * :rocket: Python + Jupyter Notebook Tutorials by [BigDataAnalyticsGroup](https://github.com/BigDataAnalyticsGroup) (last update: **04.2020**)
     - Git repository with [Python Tutorials](https://github.com/BigDataAnalyticsGroup/python)
     - :clapper: Videos (in **German**) are also available on youtube [here](https://www.youtube.com/watch?v=1S4Cgtkxqhs&list=PLC4UZxBVGKte4XagApdryLsnIXpjZWSAn)
@@ -84,7 +84,7 @@ If you decided to perform your data analytics project using Python it is **stron
 
 * [Reproducible Data Analysis in Jupyter](https://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
 * [Jupyter Notebook on Full Stack Python](https://www.fullstackpython.com/jupyter-notebook.html)
-* [Quick dive into Pandas for Data Science](https://towardsdatascience.com/quick-dive-into-pandas-for-data-science-cc1c1a80d9c4)
+* [Quick dive into Pandas for Data Science]https://medium.com/data-science/quick-dive-into-pandas-for-data-science-cc1c1a80d9c4)
 * [Getting started with Python and Jupyter Notebooks for data analysis](http://www.storybench.org/getting-started-with-python-and-jupyter-notebooks-for-data-analysis/)
 * [5 Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
 * [What Is a Data Frame? (In Python, R, and SQL)](https://www.oilshell.org/blog/2018/11/30.html)
@@ -93,7 +93,7 @@ If you decided to perform your data analytics project using Python it is **stron
 * [3 Awesome Visualization Techniques for every dataset](https://mlwhiz.com/blog/2019/04/19/awesome_seaborn_visuals/)
 * [Stylin’ with Pandas](https://pbpython.com/styling-pandas.html)
 * [Every Complex DataFrame Manipulation, Explained & Visualized Intuitively](https://medium.com/analytics-vidhya/every-dataframe-manipulation-explained-visualized-intuitively-dbeea7a5529e)
-* [10 Useful Jupyter Notebook Extensions for a Data Scientist](https://towardsdatascience.com/10-useful-jupyter-notebook-extensions-for-a-data-scientist-bd4cb472c25e)
+* [Top 10 Jupyter Notebook Extensions for Data Science and Machine Learning](https://jupyter.app/article/Top_10_Jupyter_Notebook_Extensions_for_Data_Science_and_Machine_Learning.html)
     - ```Qgrid, itables, DataTables, ipyvolume, bqplot, handcalcs ```
 * *Compare SQL and pandas* [How to Write All of Your SQL Queries in Pandas](https://towardsdatascience.com/how-to-write-all-of-your-sql-queries-in-pandas-449dd8b2c94e)
 
@@ -101,8 +101,7 @@ If you decided to perform your data analytics project using Python it is **stron
 ## :chart_with_upwards_trend: Materials for self-paced study (**SQL**)
 
 * Warm up SQL
-    - [SQL concepts: from A to Z](http://www.helenanderson.co.nz/sql-concepts-from-a-to-z/)
-    - [All about SQL JOINs using (almost real) examples](http://www.helenanderson.co.nz/sql-joins/)
+    - [SQL concepts from A to Z](https://dev.to/helenanders26/sql-series-from-a-to-z-2pk9)
 * Data Wrangling with SQL (in some cases you will need to adapt provided solutions for **your database**)
     - [Using SQL String Functions to Clean Data](https://community.modeanalytics.com/sql/tutorial/sql-string-functions-for-cleaning/)
     - [Writing Subqueries in SQL](https://mode.com/sql-tutorial/sql-sub-queries)
@@ -143,10 +142,9 @@ If you decided to perform your data analytics project using Python it is **stron
 <details>
 
 * Crashkurs für maschinelles Lernen (Microsoft, in German) - https://docs.microsoft.com/de-de/learn/paths/ml-crash-course/
-* Intro to TensorFlow for Deep Learning (Udacity) - https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
 * TensorFlow + Tutorials - https://www.tensorflow.org/tutorials
 * Machine Learning (by Andrew Ng) - https://www.coursera.org/learn/machine-learning
-* Statistical Learning - https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning
+* Statistical Learning with R - https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning-r
 * Data Science (not all courses are free) - https://www.coursera.org/browse/data-science
 * Stat 451: Intro to Machine Learning (Fall 2020) (Sebastian Raschka) - https://www.youtube.com/watch?v=OgK8JFjkSto&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&index=1
 * MIT 6.S191 Introduction to Deep Learning (Spring 2020) (Youtube) - http://introtodeeplearning.com/
