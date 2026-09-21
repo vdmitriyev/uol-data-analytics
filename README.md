@@ -84,7 +84,7 @@ If you decided to perform your data analytics project using Python it is **stron
 
 * [Reproducible Data Analysis in Jupyter](https://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
 * [Jupyter Notebook on Full Stack Python](https://www.fullstackpython.com/jupyter-notebook.html)
-* [Quick dive into Pandas for Data Science]https://medium.com/data-science/quick-dive-into-pandas-for-data-science-cc1c1a80d9c4)
+* [Quick dive into Pandas for Data Science](https://medium.com/data-science/quick-dive-into-pandas-for-data-science-cc1c1a80d9c4)
 * [Getting started with Python and Jupyter Notebooks for data analysis](http://www.storybench.org/getting-started-with-python-and-jupyter-notebooks-for-data-analysis/)
 * [5 Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
 * [What Is a Data Frame? (In Python, R, and SQL)](https://www.oilshell.org/blog/2018/11/30.html)
